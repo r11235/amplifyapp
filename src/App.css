@@ -15,12 +15,22 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(12px + 2vmin);
   color: white;
 }
 
 .App-link {
   color: #61dafb;
+  text-decoration: none;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link:hover {
+  color: white;
+}
+
+.App-link:active {
+  color: teal;
 }
 
 @keyframes App-logo-spin {
