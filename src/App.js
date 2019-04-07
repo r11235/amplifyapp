@@ -9,6 +9,8 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
+            This app was built with React and deployed in the cloud by using the AWS Amplify 
+            Console and integrating with GitHub.  
             Learn about ReactJS, a JavaScript library for building applications:
           </p>
 
