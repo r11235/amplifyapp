@@ -1,3 +1,10 @@
+This repository contains code for a React app. It was created with ReactJS and deployed in the cloud using 
+AWS Amplify and integrating with GitHub.
+
+See the website created with React: https://www.rmreact.com
+
+-------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
